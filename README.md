@@ -7,7 +7,9 @@ An application that does storytelling on World Triathlon Championship videos wit
 4. If you are executing it with a cpu, replace cuda by cpu. 
 
 Download swimcapmodel here: https://file.io/xPHMWU0wYBp1
+
 Download numbermodel here: https://file.io/DuNzr6zbX58V
+
 Download classifymodel here: https://file.io/PDyEfG3w816U
 
 It can only be downloaded once, but I will refresh it as soon as possible when someone donwloads it.
